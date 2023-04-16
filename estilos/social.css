@@ -26,6 +26,17 @@ a {
     text-decoration: none;
 }
 
-a:hover {
+.acesse:hover {
     background-color: blue;
+}
+
+.menu {
+    background-color: #3A3A3A;
+    padding: 0px;
+    margin: 0px;
+    
+}
+.menu img{
+    width: 50px;
+    
 }
