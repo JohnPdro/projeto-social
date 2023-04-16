@@ -1,11 +1,12 @@
 @charset "UTF-8";
 
+/* CSS criado para manter um padrão para posicionar todas as telas de fundo das redes sociais */
 * {
     margin: 0px;
     padding: 0px;
     font-family: Arial, Helvetica, sans-serif;
 }
-
+/* Pseudo-elemento utilizado para remover a scrollbar */
 ::-webkit-scrollbar {
     width: 0px;
     height: 0px;

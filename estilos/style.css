@@ -5,19 +5,19 @@
     padding: 0px;
     font-family: Arial, Helvetica, sans-serif;
 }
-
+/* Ocupação da View Port */
 html, body{
     height: 100vh;
     width: 100vw;
     background-color: black;
 }
-
+/* posicionamento e estilo do background */
 body{
     background: url('../imagens/pexels-madison-inouye-1831234.jpg') no-repeat top center;
     background-size: cover;
     background-attachment: fixed;
 }
-
+/* linha 21-42 utilizadas para posicionar o celular e os conteúdos*/
 main{
     position: relative;
     height: 100vh;
@@ -40,7 +40,7 @@ iframe#tela{
     width: 268px;
     height: 471px;
 }
-
+/* linha 44-57 Utilizadas para posicionar os ícones das redes sociais */
 section#redes-sociais img{
     width: 60px;
     margin: 10px 15px 10px 15px;
